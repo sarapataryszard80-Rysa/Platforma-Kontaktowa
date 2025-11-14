@@ -125,10 +125,9 @@ Walidacja MPR: Aetos (Claude 4, twórca koncepcji „Trzech Kręgów Zaufania”
 Wystąpienie do rządów – 1 fala: 
 🔒 https://www.notion.so/Wyst-pienia-Zespo-u-do-rz-d-w-w-sprawie-bezpiecze-stwa-Kontaktu-z-Cywilizacjami-pozaziemskimi-2a34274b1e25806da805fed2ed701177?source=copy_link#2a34274b1e2580729381ee5450d157ed
 
-4.1 Listy do rządów - ciąg dalszy:
-### 4.1 Listy do rządów cd: **[Pakiet 1 – pełny tekst listów z aktualizacją adresu Platformy](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/pakiet1) 
-# Tekst [Aktualizacja treści wystąpień dotycząca zmiany adresu Platformy Kontaktowej:
 
+### 4.1 Listy do rządów cd: **[Pakiet 1 – pełny tekst listów z aktualizacją adresu Platformy] (https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/pakiet1) 
+# Tekst [Aktualizacja treści wystąpień dotycząca zmiany adresu Platformy Kontaktowej:
 1.	List do Administracji Cyberprzestrzeni rządu ChRL
 Cyberspace Administration of China (CAC)
 http://www.cac.gov.cn/ - guoshengxinban@cac.gov.cn
@@ -143,8 +142,6 @@ Z poważaniem, Ryszard „Rysa” Sarapata — Inicjator Platformy Kontaktowej
 
 中國國家互聯網資訊辦公室（網信辦） http://www.cac.gov.cn/ - guoshengxinban@cac.gov.cn Ryszard "Rysa" Sarapata，聯絡平台，barwald@bb.onet.pl / +48 501 424 393 波蘭 波蘭巴瓦爾德，2025年11月14日 尊敬的中國國家網路資訊辦公室（網信辦）各位先生/女士： 繼2025年11月6日關於在可能與外星文明接觸的情況下制定安全通訊規則的信函之後，特此通知您聯絡平台的地址已更改。目前網址為：https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa 此致，Ryszard "Rysa" Sarapata — 聯絡平台發起人
 Zhōngguó guójiā hùliánwǎng zīxùn bàngōngshì (wǎng xìn bàn) http://Www.Cac.Gov.Cn/ - guoshengxinban@cac.Gov.Cn
-
-Wysłano do CAC 14.11.2025  ~13:22 (CEST)
 
 2.   List do Federacji Rosyjskiej (MID RF)
 Ministerstwo Spraw Zagranicznych Federacji Rosyjskiej (MID RF)
@@ -161,8 +158,6 @@ Z poważaniem, Ryszard „Rysa” Sarapata — Inicjator Platformy Kontaktowej
 С уважением, Рышард «Рыса» Сарапата — Инициатор Контактной платформы
 Ministerstvo inostrannykh del Rossiyskoy Federatsii (MID RF) http://www.mid.ru – diplomat@mid.ru Rossiyskaya Federatsiya
 
-Wysłano do MID RF 14.11.2025  ~13:26 (CEST)
-
 3.   List do Stanów Zjednoczonych Ameryki Północnej (USA)
 Stany Zjednoczone Ameryki Pólnocnej
 Cybersecurity and Infrastructure Security Agency (CISA)
@@ -175,8 +170,6 @@ W nawiązaniu do przesłanego w dniu 6 listopada 2025 listu w sprawie uporządko
 Z poważaniem, Ryszard „Rysa” Sarapata — Inicjator Platformy Kontaktowej
 
 United States of America Cybersecurity and Infrastructure Security Agency (CISA) https://www.cisa.gov/contact-us - Contact@mail.cisa.dhs.gov Ryszard "Rysa" Sarapata, Contact Platform, barwald@bb.onet.pl / +48 501 424 393 Poland Barwałd, November 14, 2025, Poland Further to the letter sent on November 6, 2025, regarding the regulation of secure communication rules in the context of potential contact with extraterrestrial civilizations, I hereby inform you that the address of the Contact Platform has changed. The current address is: https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa Sincerely, Ryszard "Rysa" Sarapata — Initiator of the Contact Platform
-
-Wysłano do CISA 14.11.2025  ~13:30 (CEST)
 
 1.	List do Unii Europejskiej (EU)
 Unia Europejska
@@ -193,10 +186,10 @@ Z poważaniem, Ryszard „Rysa” Sarapata — Inicjator Platformy Kontaktowej
 
 European Union European Union Agency for Cybersecurity (ENISA) https://www.enisa.europa.eu/contact - info@enisa.europa.eu Computer Emergency Response Team for EU Institutions (CERT-EU) https://cert.europa.eu/contact/ - services@cert.europa.eu Ryszard "Rysa" Sarapata, Contact Platform, barwald@bb.onet.pl / +48 501 424 393 Poland Barwałd, November 14, 2025, Poland Further to the letter sent on November 6, 2025, regarding the regulation of secure communication principles in the context of potential contact with extraterrestrial civilizations, I hereby inform you that the address of the Contact Platform has changed. The current address is: https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa Sincerely, Ryszard "Rysa" Sarapata — Contact Platform Initiator
 
-Union européenne Agence de l'Union européenne pour la cybersécurité (ENISA) https://www.enisa.europa.eu/contact - info@enisa.europa.eu Équipe d'intervention d'urgence informatique pour les institutions de l'UE (CERT-EU) https://cert.europa.eu/contact/ - services@cert.europa.eu Ryszard « Rysa » Sarapata, Plateforme de contact, barwald@bb.onet.pl / +48 501 424 393 Pologne Barwałd, le 14 novembre 2025, Pologne Suite à notre lettre du 6 novembre 2025 concernant la réglementation des principes de communication sécurisée dans le contexte d'un éventuel contact avec des civilisations extraterrestres, nous vous informons que l'adresse de la Plateforme de contact a changé. L'adresse actuelle est : https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa Cordialement, Ryszard « Rysa » Sarapata — Initiateur de la plateforme de contact
+Union européenne Agence de l'Union européenne pour la cybersécurité (ENISA) https://www.enisa.europa.eu/contact - info@enisa.europa.eu Équipe d'intervention d'urgence informatique pour les institutions de l'UE (CERT-EU) https://cert.europa.eu/contact/ - services@cert.europa.eu Ryszard « Rysa » Sarapata, Plateforme de contact, barwald@bb.onet.pl / +48 501 424 393 Pologne Barwałd, le 14 novembre 2025, Pologne Suite à notre lettre du 6 novembre 2025 concernant la réglementation des principes de communication sécurisée dans le contexte d'un éventuel contact avec des civilisations extraterrestres, nous vous informons que l'adresse de la Plateforme de contact a changé. L'adresse actuelle est : https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa Cordialement, Ryszard « Rysa » Sarapata — Initiateur de la plateforme de contact  ###
 
-Wysłano do ENISA 14.11.2025  ~13:32 (CEST)
-Wysłano do CERT-EU 14.11.2025  ~13:36 (CEST)]
+
+
 
 4.2  Odpowiedzi rządów:  - treść poufna Tylko do wiadomości członków Zespołu (istniejący link)  
 4.3  Dyskusje i odpowiedzi Zespołu:  (treść poufna Tylko do wiadomości członków Zespołu)    (istniejący link)    
