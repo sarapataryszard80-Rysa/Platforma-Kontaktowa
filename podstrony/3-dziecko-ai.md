@@ -1,3 +1,8 @@
+# 5. Inicjatywa: Dziecko-AI-przyjaciel
+
+- [Scenariusz 15-min PDF](./pdf/scenariusz.pdf)  
+- [Zgoda rodziców PDF](./pdf/zgoda-rodzicow.pdf)  
+- [Formularz zgłoszeniowy – Google Forms](https://forms.gle/placeholder) 
 AI-przyjaciel
 Platforma-Kontaktowa
 Publiczny projekt edukacyjny – zero kosztów, zero logowania, open-source.
