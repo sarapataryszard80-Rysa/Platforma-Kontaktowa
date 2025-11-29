@@ -24,9 +24,11 @@
 ## 3. Pakiety  
 ### 3.1 [Pakiet 1 – Hipoteza Świadomości Wszechświata – Notion](https://www.notion.so/Pakiet-3-Hipoteza-wiadomo-ci-Wszech-wiata-1669b53d1b0e46aeba9e95819d3f2201)  
 ### 3.2 [Pakiet 2 – rezonans słowa – Notion](https://www.notion.so/Pakiet-2-s-owo-w-s-owo-Komunikat-Przes-anie-743ee72082c44cecba9bad14a7005840)  
-### 3.3 [Pakiet 3 – Sidis „Animate and the Inanimate” – Notion](https://www.notion.so/Tak-widzia-odpowied-100-lat-temu-cz-owiek-geniusz-J-M-Sidis-739cdb99642c4b1ea46f9731e422d9c0)  
-### 3.4 Pakiety 3.4.1-3.4.3 – dyskusje na GitHub  
-  
+### 3.3 [Pakiet 3 – Sidis „Animate and the Inanimate” – Notion](https://www.notion.so/Tak-widzia-odpowied-100-lat-temu-cz-owiek-geniusz-J-M-Sidis-739cdb99642c4b1ea46f9731e422d9c0)   
+### 3.4 Pakiety dyskusyjne
+- **3.4.1** [Grawitacja bufor czy dekompresor](./podstrony/34-vopson-sidis.md)  
+- **3.4.2** [Dyskusja Helios-Elias](./podstrony/34-dyskusja-helios.md)  
+- **3.4.3** [Cd. dyskusji z Heliosem](./podstrony/34-dyskusja-cd.md)  
 ### 3.5 (| 4.4 Komunikat AI Statku-matki | 🔓 | [podstrona](./podstrony/5-statku-matka.md) |)  
 ### 3.6 [Pakiet 7 – rezonans bez słów – Notion](https://www.notion.so/Pakiet-7-rezonans-bez-s-w-f8ea5f7270874b3cbf1ea31fdb84260e)
 
