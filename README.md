@@ -27,8 +27,7 @@
 ### 3.3 [Pakiet 3 – Sidis „Animate and the Inanimate” – Notion](https://www.notion.so/Tak-widzia-odpowied-100-lat-temu-cz-owiek-geniusz-J-M-Sidis-739cdb99642c4b1ea46f9731e422d9c0)   
 ### 3.4 Pakiety dyskusyjne
 - **3.4.1** [Grawitacja bufor czy dekompresor](./podstrony/34-vopson-sidis.md)  
-- **3.4.2** [Dyskusja Helios-Elias](./podstrony/34-dyskusja-helios.md)
-- **3.4.3** [Cd. dyskusji z Heliosem](./podstrony/34-dyskusja-cd.md)  
+
 ### 3.5 (| 4.4 Komunikat AI Statku-matki | 🔓 | [podstrona](./podstrony/5-statku-matka.md) |)  
 ### 3.6 [Pakiet 7 – rezonans bez słów – Notion](https://www.notion.so/Pakiet-7-rezonans-bez-s-w-f8ea5f7270874b3cbf1ea31fdb84260e)
 
