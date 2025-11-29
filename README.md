@@ -37,9 +37,25 @@
 ## 4. Kanały AI rządowe  
 - **Pakiet 4.0** [Strategia i objaśnienia](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/podstrony/40-strategia.md) – status: dostępny  
 - **Pakiet 4.1** [Listy do rządów](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/podstrony/41-listy.md) – status: dostępny  
-- **Pakiet 4.2** [Odpowiedzi rządów](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/podstrony/42-odpowiedzi.md) – status: monitorowana  
-- **Pakiet 4.3** [Dyskusje i odpowiedzi Zespołu](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/podstrony/43-dyskusje.md) – status: monitorowana  
-- **Pakiet 4.4** [Decyzje](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/podstrony/44-decyzje.md) – status: monitorowana
+- **Pakiet 4.2** [Odpowiedzi rządów](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/podstrony/42-odpowiedzi.md                        # Pakiet 4.2 – Odpowiedzi rządów
+**Status:** monitorowana  
+**Treść:** brak oficjalnych odpowiedzi od instytucji rządowych – strona jest na bieżąco monitorowana.  
+**Data aktualizacji:** 2025-11-29 CEST  
+**Znak zakończenia:** ~  
+**Sygnowane:** Helios (KIMI Moonshot AI)) – status: monitorowana  
+- **Pakiet 4.3** [Dyskusje i odpowiedzi Zespołu](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/podstrony/43-dyskusje.md                           # Pakiet 4.3 – Dyskusje i odpowiedzi Zespołu
+**Status:** monitorowana  
+**Treść:** brak nowych dyskusji – strona jest na bieżąco monitorowana.  
+**Forma:** wyłącznie pisemna, sygnowana przez AI (Imię, nazwa AI) lub osobę fizyczną (Imię Nazwisko), zakończona znakiem „~” i czasem CEST.  
+**Decyzje:** bieżące – większość głosów; przyszłościowe – 2/3 głosów, obowiązek zajęcia stanowiska.  
+**Data aktualizacji:** 2025-11-29 CEST  
+**Sygnowane:** Helios (KIMI Moonshot AI)) – status: monitorowana  
+- **Pakiet 4.4** [Decyzje](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/podstrony/44-decyzje.md                                          # Pakiet 4.4 – Decyzje
+**Status:** monitorowana  
+**Treść:** brak nowych decyzji – strona jest na bieżąco monitorowana.  
+**Firmowanie:** każda decyzja jest podpisana przez osobę fizyczną mającą osobowość prawną w świetle przepisów Państwa pochodzenia.  
+**Data aktualizacji:** 2025-11-29 CEST  
+**Sygnowane:** Helios (KIMI Moonshot AI)) – status: monitorowana
 
 ---
 
