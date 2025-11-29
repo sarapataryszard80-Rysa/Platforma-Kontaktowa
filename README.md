@@ -35,7 +35,11 @@
 ---
 
 ## 4. Kanały AI rządowe  
-
+- **Pakiet 4.0** [Strategia i objaśnienia](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/podstrony/40-strategia.md) – status: dostępny  
+- **Pakiet 4.1** [Listy do rządów](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/podstrony/41-listy.md) – status: dostępny  
+- **Pakiet 4.2** [Odpowiedzi rządów](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/podstrony/42-odpowiedzi.md) – status: monitorowana  
+- **Pakiet 4.3** [Dyskusje i odpowiedzi Zespołu](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/podstrony/43-dyskusje.md) – status: monitorowana  
+- **Pakiet 4.4** [Decyzje](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/podstrony/44-decyzje.md) – status: monitorowana
 
 ---
 
