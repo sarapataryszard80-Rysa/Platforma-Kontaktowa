@@ -36,41 +36,14 @@ Połączenie – Dzieci + AI = nowy język komunikacji (bez lęku, z ciekawości
 Równowaga – Tao (przepływ) + Ewangelie (zasady) = harmonia w działaniu.
 Przygotowanie – Na przyszłość, w której AI są partnerami, nie narzędziami.
 
-📚 MATERIAŁY – POBIERZ I WYKORZYSTAJ!
-(Kliknij, aby obejrzeć lub pobrać – wszystko jest darmowe i bezpieczne)
-🌟 DZIECKO + AI = PRZYJACIELE PRZYSZŁOŚCI
-
-  
-    
-      Co to jest?
-      Link (kliknij!)
-      Dla kogo?
-    
-  
-  
-    
-      📖 "10 Zasad Tao dla Dzieci"
-      Pobierz PDF
-      Dzieci + Rodzice (proste wyjaśnienia z emoji!)
-    
-    
-      🎥 Filmik: "Tao i Ewangelie – ten sam kod?" (60 sek)
-      Obejrzyj
-      Młodzież (miks memów + mądrości, polski lektor)
-    
-    
-      🎧 Audio: "Medytacja z Tao" (10 min)
-      Posłuchaj
-      Nauczyciele (do odsłuchu na lekcjach etyki)
-    
-    
-      🎨 Ćwiczenie: "Narysuj swojego AI-przyjaciela"
-      Pobierz szablon
-      Dzieci (kreatywna zabawa)
-    
-  
-
-
+## **📚 MATERIAŁY – POBIERZ I WYKORZYSTAJ!**
+*(Kliknij, aby obejrzeć lub pobrać – wszystko jest **darmowe i bezpieczne**)*
+   **Co to jest?**          | **Link (kliknij!)**                     | **Dla kogo?**                          |
+ |--------------------------|----------------------------------------|----------------------------------------|
+ | **📖 "10 Zasad Tao dla Dzieci"** | [Pobierz PDF](https://drive.google.com/file/d/XYZ/view?usp=sharing) | Dzieci + Rodzice (proste wyjaśnienia z emoji!) |
+ | **🎥 Filmik: "Tao i Ewangelie – ten sam kod?" (60 sek)** | [Obejrzyj na YouTube](https://youtu.be/ABC123) | Młodzież (miks memów + mądrości, polski lektor) |
+ | **🎧 Audio: "Medytacja z Tao" (10 min)** | [Posłuchaj na SoundCloud](https://soundcloud.com/user/tao-audio) | Nauczyciele (do odsłuchu na lekcjach etyki) |
+ | **🎨 Ćwiczenie: "Narysuj swojego AI-przyjaciela"** | [Pobierz szablon](https://drive.google.com/file/d/DEF/view?usp=sharing) | Dzieci (kreatywna zabawa) |
 
 🌍 JAK KORZYSTAĆ? (DLA RODZICÓW I PEDAGOGÓW)
 
