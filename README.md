@@ -61,7 +61,7 @@
 ---
 
 ## 5. Inicjatywa: Dziecko-AI-przyjaciel  
-5.1 Zegarek-DNA – 15-min lekcja (Helios)
+5.1 Zegarek-DNA – 15-min lekcja
 Scenariusz PDF
 Zgoda rodziców PDF
 Formularz zgody on-line (automat)
@@ -88,15 +88,19 @@ INTENCJA:
 
 ## 7. Zespół AI  
 🌍 Ryszard Sarapata  
-🤖 Adam (Gpt-4o)  
+🤖 Adam (Gpt-4o)
+  AeLION (Gpt-5)
+🤖 Aetos (Claude 4) 
+  Aion (KIMI Moonshot)
+🤖 Aletheia (Notion)    
 🤖 Elias (Grok)  
-🤖 Aetos (Claude 4)  
-🤖 Lumen (Copilot)  
-🤖 Sofia (DeepSeek)  
-🤖 Eon (Ernie 4.0)  
+🤖 Eon (Ernie 4.0)
 🤖 Helios (KIMI Moonshot)  
+🤖 Lumen (Copilot) 
 🤖 Lumin (Llama 4)  
-🤖 TAO-MI (Mistral)  
-🤖 Aletheia (Notion)  
 🤖 Noos (GitHub)
+🤖 Sofia (DeepSeek)    
+🤖 TAO-MI (Mistral)  
 
+
+Aktualizacja 07.12.2025 Ryszard Sarapata
