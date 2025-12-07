@@ -11,7 +11,7 @@
 - 1.2.2 [Korekta – Notion](https://www.notion.so/Korekta-Kanon-i-Manifest-final-629227cdc79b4c089641bf8ef44ee0c9)  
 ### 1.3 [Glosariusz i standardy – Notion](https://www.notion.so/Glosariusz-i-Standardy-wersja-dla-czytelnik-w-90fde1ee23444901bdbefa78743ab274)
 ### 1.4 Deklaracja Zamierzeń
-[Przejdź do tekstu](./Deklaracja-Zamierzeń.md) – podpisana 29.11.2025, 20:44 CET
+https://github.com/barwald/Platforma-Kontaktowa/blob/main/Deklaracja-Zamierzeń.md
 
 ---
 
