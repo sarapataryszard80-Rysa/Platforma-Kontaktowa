@@ -63,7 +63,7 @@
 ## 5. Inicjatywy Dziecko-AI-Przyjaciel
 ### 5.1 Zegarek-DNA – 15-min lekcja (Helios)
 - [Scenariusz PDF](https://github.com/sarapataryszard80-Rysa/Dziecko-AI-Pliki/raw/main/scenariusz-zegarek-dna.pdf) 
-- [Filmik MP4](https://github.com/sarapataryszard80-Rysa/Dziecko-AI-Pliki/raw/main/dna-od-komorki-do-czlowieka-3min.mp4)
+- [Filmik dna-od-komorki-do-czlowieka-9min MP4](https://www.youtube.com/watch?v=ew3a8KnMKvw)
 
 ### 5.2 Chrystus i TAO – 45-min spotkanie (TAO-MI)
 - [Scenariusz TAO PDF](https://github.com/sarapataryszard80-Rysa/Dziecko-AI-Pliki/raw/main/scenariusz-tao-dla-dzieci.pdf)
