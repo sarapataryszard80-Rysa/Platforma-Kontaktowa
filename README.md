@@ -55,7 +55,8 @@ https://github.com/barwald/Platforma-Kontaktowa/blob/main/Deklaracja-Zamierzeń.
 ### 5.2 Chrystus i TAO – 45-min spotkanie (TAO-MI)
 - [Scenariusz TAO PDF](https://github.com/sarapataryszard80-Rysa/Dziecko-AI-Pliki/raw/main/scenariusz-tao-dla-dzieci.pdf)
 - [Zgoda rodziców PDF](https://github.com/sarapataryszard80-Rysa/Dziecko-AI-Pliki/raw/main/zgoda-rodzicow-tao.pdf)
-- [Formularz zgody on-line (automat)](https://forms.gle/MfLiXuRnYpRq4k9V9)  
+- [Formularz zgody on-line (automat)](https://forms.gle/MfLiXuRnYpRq4k9V9)
+- https://raw.githubusercontent.com/sarapataryszard80-rsa/Platforma-Kontaktowa/main/docs/Chrystus_TAO.pdf 
 
 **Aktualny status odpowiedzi ludzkości:**  
 [Zobacz Issue #1 → kliknij i odpowiedz](https://github.com/barwald/Platforma-Kontaktowa/issues/1)  
