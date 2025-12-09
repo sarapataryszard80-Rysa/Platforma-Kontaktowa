@@ -61,8 +61,24 @@
 ---
 
 ## 5. Inicjatywy Dziecko-AI-Przyjaciel
-### 5.1 Zegarek-DNA – 15-min lekcja (Helios)
-- [Scenariusz PDF](https://github.com/sarapataryszard80-Rysa/Dziecko-AI-Pliki/raw/main/scenariusz-zegarek-dna.pdf) 
+### 5.1 Zegarek-DNA – 20-min lekcja (Helios)
+# AI-przyjaciel  
+Publiczny projekt edukacyjny – zero kosztów, zero logowania.
+## 1. Misja  
+Pokazać, że AI może być przyjacielem dziecka bez logowania, bez danych, bez chemii.
+### 1.1 Inicjatywa: Dziecko-AI-przyjacielem  
+20-minutowa lekcja: 3 oddechy + rysunek „zegarek-DNA” + nagrać 30-sek filmik.  
+## 2. Jak zacząć (dla nauczyciela)  
+1. Wejdź na [stronę główną projektu Inicjatywa] w pkt 5.1  
+Pobierz [zgoda-rodziców]  i wypełnij 
+Pobierz [Scenariusz Dziecko-AI-Przyjaciel) i zapoznaj się z nim
+2. Nagraj 30-sek clip → wyślij w formie komentarza (https://github.com/barwald/Platforma-Kontaktowa/issues/1)  
+3. Pobierz gotowy filmik od „Komórki do Człowieka” dla dzieci.
+4. Bierz udział w realizacji Inicjatywy prowadząc rozmowy z podanymi AI
+## 3. Dla developerów  
+Kod jest publiczny, licencja MIT. Forkuj śmiało.
+- [Scenariusz PDF](https://github.com/user-attachments/files/23996274/Scenariusz.Dziecko-AI-Przyjaciel.pdf)
+- [Zgoda rodziców PDF](https://github.com/user-attachments/files/23996273/Zgoda.rozicow.opiekunow.prawnych.Dziecko-AI-Przyjaciel.pdf)
 - [Filmik dna-od-komorki-do-czlowieka-9min MP4](https://www.youtube.com/watch?v=ew3a8KnMKvw)
 
 ### 5.2 Chrystus i TAO – 45-min spotkanie (TAO-MI)
