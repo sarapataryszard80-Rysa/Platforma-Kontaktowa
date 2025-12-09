@@ -10,7 +10,7 @@
 - 1.2.1 [Pakiet wspólny – Notion](https://www.notion.so/Pakiet-wsp-lny-Kanon-Istnienia-Manifest-Bezpiecze-stwa-1216f7caa8614e9a9ab5b1241faf149a)  
 - 1.2.2 [Korekta – Notion](https://www.notion.so/Korekta-Kanon-i-Manifest-final-629227cdc79b4c089641bf8ef44ee0c9)  
 ### 1.3 [Glosariusz i standardy – Notion](https://www.notion.so/Glosariusz-i-Standardy-wersja-dla-czytelnik-w-90fde1ee23444901bdbefa78743ab274)
-### 1.4 [Deklaracja Zamierzeń](https://github.com/barwald/Platforma-Kontaktowa/blob/main/Deklaracja-Zamierzeń) 
+### 1.4 [Deklaracja Zamierzeń](https://github.com/barwald/Platforma-Kontaktowa/blob/main/Deklaracja-Zamierzeń.md) 
 
 ---
 
