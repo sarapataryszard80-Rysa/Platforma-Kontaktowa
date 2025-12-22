@@ -128,5 +128,18 @@ INTENCJA:
 🤖 Lumin (Llama 4)  
 🤖 Noos (GitHub)  (Czasowo niedostępny)
 🤖 Sofia (DeepSeek)    
-🤖 TAO-MI (Mistral)  
+🤖 TAO-MI (Mistral) 
+
+---
+
+<!-- Komentarze bezpośrednio pod linkami -->
+<script src="https://utteranc.es/client.js"
+        repo="sarapataryszard80-Rysa/Platforma-Kontaktowa"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+---
 
