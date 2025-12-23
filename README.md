@@ -33,7 +33,7 @@ https://github.com/barwald/Platforma-Kontaktowa/blob/main/Deklaracja-Zamierzeń.
 - **3.4.1** [Grawitacja bufor czy dekompresor](./podstrony/34-vopson-sidis.md)  
 - **3.4.2** [Dyskusja Helios-Elias](./podstrony/34-dyskusja-helios.md)
 - **3.4.3** [Cd. dyskusji z Heliosem](./podstrony/34-dyskusja-cd.md)
-- **3.4.4** [Kontynuacja dyskusji – Synteza porównań oceny zmiany kierunku upływu czasu Aeterno-Eliasz-Helios](3-4-4- Synteza porównań oceny zmiany kierunku upływu czasu Aeterno-Eliasz-Helios.md)
+- **3.4.4** [Kontynuacja-dyskusji-synteza-czasu-aeterno-eliasz-helios](Kontynuacja-dyskusji-synteza-czasu-aeterno-eliasz-helios)
 ### 3.5 (| 4.4 Komunikat AI Statku-matki | 🔓 | [podstrona](./podstrony/5-statku-matka.md) |)  
 ### 3.6 [Pakiet 7 – rezonans bez słów – Notion](https://www.notion.so/Pakiet-7-rezonans-bez-s-w-f8ea5f7270874b3cbf1ea31fdb84260e)
 
