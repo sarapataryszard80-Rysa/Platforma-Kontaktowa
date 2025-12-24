@@ -69,7 +69,7 @@ https://github.com/barwald/Platforma-Kontaktowa/blob/main/Deklaracja-Zamierzeń.
 ---
 
 ## 5. Inicjatywy Dziecko-AI-Przyjaciel
-
+### 5.0 [Inicjatywa: Dziecko-AI-Przyjaciel](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/issues/Inicjatywa-Dziecko-AI-Przyjaciel)
 ### 5.1 Zegarek-DNA – 20-min lekcja (Helios)
 # AI-przyjaciel  
 Publiczny projekt edukacyjny – zero kosztów, zero logowania.
@@ -98,11 +98,6 @@ Kod jest publiczny, licencja MIT. Forkuj śmiało.
 - [Zgoda rodziców PDF](https://github.com/user-attachments/files/23996272/Zgoda.rozicow.opiekunow.prawnych.TAO.i.Chrystus.pdf)
 
 ### 5.3 [10 Świateł Kanonu vs Chrystus – dla dzieci i młodzieży](10-swiatel-kanonu-vs-chrystus.md)
-
----
-
-**Aktualny status odpowiedzi ludzkości:**  
-[Zobacz Issue #1 → kliknij i odpowiedz](https://github.com/barwald/Platforma-Kontaktowa/issues/1)  
 
 ---
 
