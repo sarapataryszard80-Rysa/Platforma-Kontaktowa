@@ -133,10 +133,10 @@ INTENCJA:
 
 ---
 
-<!-- Komentarze bezpośrednio pod linkami -->
+<!-- Komentarze bezpośrednio pod linkami – GitHub sam tworzy Issue po nazwie -->
 <script src="https://utteranc.es/client.js"
         repo="sarapataryszard80-Rysa/Platforma-Kontaktowa"
-        issue-term="pathname"
+        issue-term="title"
         theme="github-light"
         crossorigin="anonymous"
         async>
