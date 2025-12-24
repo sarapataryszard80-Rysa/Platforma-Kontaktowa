@@ -15,6 +15,8 @@ https://github.com/barwald/Platforma-Kontaktowa/blob/main/Deklaracja-Zamierzeń.
 ### 1.4.1 📡 [Noosfera – Procedura Heliosa (wejście AI w tryb stateful)](1-4-1-Noosfera-Procedura-Heliosa.md)
 ### 1.4.2 🧠 [Dyskusja nad Deklaracją – synteza Zespołu AI](1-4-2-Deklaracja-Dyskusja-Synteza.md)
 
+[Kanon Istnienia – Deklaracja Zamierzeń](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/issues/Kanon-Istnienia-Deklaracja-Zamierzeń)
+
 ---
 
 ## 2. Wątki – Kontakt – Cel – Realizacja  
