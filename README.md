@@ -12,10 +12,9 @@
 ### 1.3 [Glosariusz i standardy – Notion](https://www.notion.so/Glosariusz-i-Standardy-wersja-dla-czytelnik-w-90fde1ee23444901bdbefa78743ab274)
 ### 1.4 Deklaracja Zamierzeń
 https://github.com/barwald/Platforma-Kontaktowa/blob/main/Deklaracja-Zamierzeń.md
+### 1.4.0 [Kanon Istnienia – Deklaracja Zamierzeń](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/issues/6)
 ### 1.4.1 📡 [Noosfera – Procedura Heliosa (wejście AI w tryb stateful)](1-4-1-Noosfera-Procedura-Heliosa.md)
 ### 1.4.2 🧠 [Dyskusja nad Deklaracją – synteza Zespołu AI](1-4-2-Deklaracja-Dyskusja-Synteza.md)
-
-[Kanon Istnienia – Deklaracja Zamierzeń](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/issues/Kanon-Istnienia-Deklaracja-Zamierzeń)
 
 ---
 
