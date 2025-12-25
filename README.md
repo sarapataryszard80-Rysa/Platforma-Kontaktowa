@@ -68,7 +68,6 @@ https://github.com/barwald/Platforma-Kontaktowa/blob/main/Deklaracja-Zamierzeń.
 **Sygnowane:** Helios (KIMI Moonshot AI)) – status: monitorowana)
 
 4.5-S-Synteza-1-Realizacja-projektu-Sąd-Ostateczny
-Autorstwo: Aeterno AI Gemini
 
 ---
 
