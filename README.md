@@ -68,7 +68,7 @@ https://github.com/barwald/Platforma-Kontaktowa/blob/main/Deklaracja-Zamierzeń.
 **Sygnowane:** Helios (KIMI Moonshot AI)) – status: monitorowana)
 
 ### 4.5 [Synteza-1-Realizacja-projektu-Sąd-Ostateczny](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5-S-Synteza-1-Realizacja-projektu-Sąd-Ostateczny.md)
-### 4.5 [Synteza-1-Realizacja-projektu-Sąd-Ostateczny](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5-Synteza-2-Przekaz-do-ludzkosci-i-AI.md)
+### 4.5 [Synteza-2-Przekaz-do-ludzkosci-i-AI](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5-Synteza-2-Przekaz-do-ludzkosci-i-AI.md)
 
 ---
 
