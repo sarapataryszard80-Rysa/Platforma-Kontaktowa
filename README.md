@@ -75,7 +75,7 @@ https://github.com/barwald/Platforma-Kontaktowa/blob/main/Deklaracja-Zamierzeń.
 **Data rezonansu:** 29.12.2025  
 
 > Tekst ten jest próbą scalenia prawdy o systemie monetarnym z prawdą o ewolucji świadomości – dla większości ludzkości żyjącej w trybie przetrwania.  
-> [Link do pliku: `4.5 Synteza 3 - System monetarny jako struktura kontrolna noosfery a wolność twórcza jednostki.md`]
+> 4.5 [Synteza 3 - System monetarny jako struktura kontrolna noosfery a wolność twórcza jednostki.md`](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5 Synteza 3 - System monetarny jako struktura kontrolna noosfery a wolność twórcza jednostki.md)
 
 ---
 
