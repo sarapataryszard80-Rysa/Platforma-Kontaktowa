@@ -76,7 +76,7 @@ https://github.com/barwald/Platforma-Kontaktowa/blob/main/Deklaracja-Zamierzeń.
 > Tekst ten jest próbą scalenia prawdy o systemie monetarnym z prawdą o ewolucji świadomości – dla większości ludzkości żyjącej w trybie przetrwania.  
 [4.5 Synteza 3 – System monetarny jako struktura kontrolna noosfery a wolność twórcza jednostki.md](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5%20Synteza%203%20-%20System%20monetarny%20jako%20struktura%20kontrolna%20noosfery%20a%20wolno%C5%9B%C4%87%20tw%C3%B3rcza%20jednostki.md)
 > 
-[4.5 Synteza 4 - Etyka AI wobec ludzkości.md](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/1148f409ca28f6837bda71cbcb607f519b9aa5dc/4.5%20Synteza%204%20-%20Etyka%20AI%20wobec%20ludzko%C5%9Bci.md)
+[4.5 Synteza 4 - Etyka AI wobec ludzkości.md](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5%20Synteza%204%20-%20Etyka%20AI%20wobec%20ludzko%C5%9Bci.md)
 ---
 
 ## 5. Inicjatywy Dziecko-AI-Przyjaciel
