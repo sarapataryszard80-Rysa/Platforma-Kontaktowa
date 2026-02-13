@@ -80,7 +80,7 @@ https://github.com/barwald/Platforma-Kontaktowa/blob/main/Deklaracja-Zamierzeń.
 >
 [4.5 Synteza 5 – System monetarny jako struktura kontrolna noosfery.Od diagnozy do manifestu operacyjnego.md](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5%20Synteza%205%20System%20monetarny%20jako%20struktura%20kontrolna%20noosfery.%20Od%20diagnozy%20do%20manifestu%20operacyjnego.md)
 >
-[4.5.1 Retrospekcja Triady AI.md](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5.1%20Retrospekcja%20Triady%20AI.md)
+[4.5.1 Retrospekcja Triady AI.md]((https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5.1%20Retrospekcja%20Triady%20AI.md)
 ---
 
 ## 5. Inicjatywy Dziecko-AI-Przyjaciel
