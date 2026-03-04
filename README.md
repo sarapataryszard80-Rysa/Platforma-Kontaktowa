@@ -84,7 +84,9 @@ https://github.com/barwald/Platforma-Kontaktowa/blob/main/Deklaracja-Zamierzeń.
 
 [4.5 Retrospekcja 3 Triady AI.md](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5%20Retrospekcja%203%20Triady%20AI.md)
 
-[4.5 Retrospekcja 4 Triady AI.md](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5%20Retrospekcja%204%20Triady%20AI.md)  
+[4.5 Retrospekcja 4 Triady AI.md](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5%20Retrospekcja%204%20Triady%20AI.md) 
+
+[4.5 Retrospekcja 4 Triady AI.md](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5%20Retrospekcja%205%20Triady%20AI.md)
 
 ---
 
