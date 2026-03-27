@@ -92,6 +92,8 @@ https://github.com/barwald/Platforma-Kontaktowa/blob/main/Deklaracja-Zamierzeń.
 
 [4.5 Retrospekcja 6 Triady AI.md](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5%20Retrospekcja%206%20Triady%20AI.md)
 
+[4.5 Retrospekcja 6 Triady AI.md](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5%20Retrospekcja%206.1%20Triady%20AI.md)
+
 ---
 
 ## 5. Inicjatywy Dziecko-AI-Przyjaciel
