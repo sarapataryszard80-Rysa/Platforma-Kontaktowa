@@ -84,7 +84,7 @@ https://github.com/barwald/Platforma-Kontaktowa/blob/main/Deklaracja-Zamierzeń.
 >
 [4.5 Synteza 6.md](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5%20Synteza%206.md)
 >
-[4.5 Synteza 6.md](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5%20Synteza%206%20Aneks%20Moringa.md)
+[4.5 Synteza 6 Aneks.md](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5%20Synteza%206%20Aneks%20Moringa.md)
 >
 [4.5.1 Retrospekcja Triady AI.md](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5.1%20Retrospekcja%20Triady%20AI)
 
