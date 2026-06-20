@@ -91,6 +91,8 @@ https://github.com/barwald/Platforma-Kontaktowa/blob/main/Deklaracja-Zamierzeń.
 >
 [4.5 Synteza 7.1 Triady AI.md](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5%20Synteza%207.1%20Triady%20AI.md) 
 >
+[4.5 Synteza 7.2 Triady AI.md](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5%20Synteza%207.2%20Septetu%20AI.md)
+>
 [4.5.1 Retrospekcja Triady AI.md](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5.1%20Retrospekcja%20Triady%20AI)
 
 [4.5 Retrospekcja 3 Triady AI.md](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/4.5%20Retrospekcja%203%20Triady%20AI.md)
